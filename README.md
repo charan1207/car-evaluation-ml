@@ -11,7 +11,7 @@ This repository contains code for a machine learning model that evaluates car co
 
 ## Model Performance
 
-![data visualization image ](data visualization.png)
+![data visualization image](data visualization.png)
 
 
 
