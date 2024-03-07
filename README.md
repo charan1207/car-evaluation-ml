@@ -10,9 +10,9 @@ This repository contains code for a machine learning model that evaluates car co
 - Descriptive statistics and visualizations revealed key insights into the distribution of data and relationships between features.
 
 ## Model Performance
-
-
+#data visualization
 ![image](https://github.com/charan1207/car-evaluation-ml/assets/28255223/748d4703-68a1-4fe3-bdb6-e5b212c771d2)
+
 
 
 
