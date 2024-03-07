@@ -11,6 +11,10 @@ This repository contains code for a machine learning model that evaluates car co
 
 ## Model Performance
 
+![data visualization image ](data visualization.png)
+
+
+
 ### Training Performance
 
 - Logistic Regression: Training accuracy of [LR:0.6960926193921853].
